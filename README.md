@@ -41,6 +41,12 @@ Gmail Notification
 ### Workflow Overview
 ![Workflow Overview](screenshots/workflow-overview.png)
 
+### OpenAI Prompt
+![OpenAI Prompt](screenshots/openai-prompt.png)
+
+### Notion Database
+![Notion Database](screenshots/notion-database.png)
+
 
 ## Future Improvements
 - Sentiment analysis
