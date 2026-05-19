@@ -38,6 +38,8 @@ Gmail Notification
 - Gmail
 
 ## Screenshots
+### Workflow Overview
+![Workflow Overview](screenshots/workflow-overview.png)
 
 ## Future Improvements
 - Sentiment analysis
