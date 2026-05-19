@@ -41,6 +41,7 @@ Gmail Notification
 ### Workflow Overview
 ![Workflow Overview](screenshots/workflow-overview.png)
 
+
 ## Future Improvements
 - Sentiment analysis
 - Automatic inquiry assignment
