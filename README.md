@@ -39,7 +39,7 @@ Gmail Notification
 
 ## Screenshots
 ### Workflow Overview
-![Workflow Overview](screenshots/workflow-overview.png)
+![notion-workflow-overview](screenshots/notion-workflow-overview.png)
 
 ### OpenAI Prompt
 ![OpenAI Prompt](screenshots/openai-prompt.png)
